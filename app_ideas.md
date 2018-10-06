@@ -53,13 +53,13 @@ App Brainstorming Group 11
 - **Scope:** release a single genre of music first / release on college campuses because that is a large demographic of music listeners
 
 2. College Class Connector
-- **Description**:
+- **Description**: meet students in your college classes / make friends from your classes / talk about class work / ask questions about class work
 - **Category:** Social Networking / Information /
 - **Mobile:** easiser to talk and connect with other students on the go so that they can meet up throughout the day
-- **Story:**
-- **Market:** Music listeners
-- **Habit:**  Check 1-3 times a week to find when things are releasing, receive push notifications when certain artists are releasing music
-- **Scope:**
+- **Story:** allow users to easily connect with those in their classes
+- **Market:** college students
+- **Habit:**  Check nearly every day / few times per week to talk to people in classes
+- **Scope:** one single campus
 
 
 3. Mindfulness Tracker App
