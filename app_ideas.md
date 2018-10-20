@@ -40,7 +40,7 @@ App Brainstorming Group 11
 ## Top 3 New App Ideas
 1. Album Release dates
 2. College class connecting
-3. Mindfullness app
+3. Mindfulness app
 
 ## New App Ideas - Evaluate and Categorize
 1. Album Release dates
@@ -65,8 +65,8 @@ App Brainstorming Group 11
 3. Mindfulness Tracker App
 - **Description**: allows users to keep track of how they spend their time
 - **Category:** Social Networking / Information / Music
-- **Mobile:** Mobile is a good platform for the app to first be launched
-- **Story:**
-- **Market:** Music listeners
-- **Habit:**  Check 1-3 times a week to find when things are releasing, receive push notifications when certain artists are releasing music
-- **Scope:** 
+- **Mobile:** Keep track of time spent on the go, so mobile would be a better case since you can check the app while you are waiting somewhere
+- **Story:**  users sign up, create categories where they want to keep track of how much time they spend, and share their heatmaps of time spent in those categories
+- **Market:** social media users
+- **Habit:**  check weekly or monthly to see how the heatmaps are developing, and add in daily activities that aren't tracked by the phone itself
+- **Scope:** release to users on 2-3 social media platforms targeting the nyc area
